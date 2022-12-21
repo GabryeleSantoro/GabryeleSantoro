@@ -13,6 +13,3 @@ Hi I'm Gabriele Santoro, young student from Salerno. I'm 21 yo.<br>👨‍🎓 C
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=GabryeleSantoro&icon=0&color=0)](https://visitcount.itsvg.in)
