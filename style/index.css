@@ -1,0 +1,100 @@
+:root {
+    --primary-color: #8B9182;
+    --secondary-color: #D1D1D1;
+}
+
+body{
+    min-width: 600px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+section{
+    height: 70vh;
+    position: relative;
+}
+
+#presentationSection{
+    background-image: conic-gradient(from 90deg,var(--primary-color), var(--secondary-color));
+    padding-top: 10vh;
+    padding-left: 10vh;
+}
+
+div.presentation{
+    width: 420px;
+}
+
+#presentationDiv > h1{
+    font-size: 52px;
+}
+
+#presentationDiv  h1.presentation, h3.presentation, p.presentation{ 
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+#citation{
+    text-align: right;
+    margin-right: 20px;
+}
+
+#chiSono{
+    height: auto;
+    background-image: linear-gradient(90deg, var(--primary-color),var(--secondary-color));
+    padding: 40px 60px;
+}
+
+#chiSonoDiv{
+    border: 0px solid transparent;
+    width: 100%;
+    height: 100%;
+}
+
+#image{
+    width: 100%;
+    height: 100%;
+}
+
+#buttonChiSono{
+    background-color: #607980;
+    border: 0px solid transparent;
+    padding: 10px;
+    width: 150px;
+    color: #fff;
+}
+
+#buttonChiSono:hover{
+    background-color: #fff;
+    border: 1px solid black;
+    color: black;
+    transition: background-color 300ms;
+}
+
+.socials{
+    width: 25px;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#col-presentation{
+    padding: 60px 40px;
+}
+
+#col-presentation h1, h4{
+    font-family: 'Raleway', sans-serif;
+}
+
+#servizi{
+    background-color: #8B9182;
+}
+
+#servizi  h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+#serviziRow{
+    padding: 0px 50px 0px 50px;
+}
