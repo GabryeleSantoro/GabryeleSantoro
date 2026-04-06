@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Gabriele Santoro, young student from Salerno. I'm 23 yo.<br>👨‍🎓 Currently graduating from University of Salerno<br>💻 Working for a Consulting, Development, Computer research company based in Battipaglia<br>📕 Working on my new project Lost&Found! <br>🚗 My hobbies are: Watching sports, Working on my projects and Hanging out with my buddies<br>👨‍💻 Keeping pace with the new technologies out there<br>
+Hi I'm Gabriele Santoro, young student from Salerno. I'm 24 yo.<br>👨‍🎓 Currently graduating from University of Salerno<br>💻 Working for a Consulting, Development, Computer research company based in Battipaglia<br>📕 Working on my new project Lost&Found! <br>🚗 My hobbies are: Watching sports, Working on my projects and Hanging out with my buddies<br>👨‍💻 Keeping pace with the new technologies out there<br>
 
 
 ## 🌐 Socials:
